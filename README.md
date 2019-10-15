@@ -12,4 +12,4 @@
  - [Short vodeo GAN](https://www.youtube.com/watch?time_continue=18&v=6v7lJHFaZZ4)
  - [A-style-based-generator-architecture-for-generative-adversarial-networks](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
  - [Generative-adversarial-networks-for-text-generation-part-1-2](https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-1-2b886c8cab10)
- - [https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
+ - [a-style-based-generator-architecture-for-generative-adversarial-networks/](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
